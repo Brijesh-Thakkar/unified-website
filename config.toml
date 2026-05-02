@@ -145,8 +145,8 @@ name = "Docs"
 url = "/docs/"
 
 [[extra.nav]]
-name = "Projects"
-url = "/projects/"
+name = "Implementations"
+url = "/implementations/"
 
 [[extra.nav]]
 name = "Status"

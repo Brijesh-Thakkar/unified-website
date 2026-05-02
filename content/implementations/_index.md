@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "Implementations"
 description = "Explore libp2p implementations across multiple languages and related projects."
-template = "projects/section.html"
+template = "implementations/section.html"
 +++
